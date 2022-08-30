@@ -1,0 +1,170 @@
+    * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-image: linear-gradient(to right, rgba(81, 27, 71, 0.915) -20%, rgb(71, 52, 93), rgb(71, 47, 142), rgb(52, 45, 57));
+      /* background-repeat: no-repeat; */
+      font-family: 'Josefin Sans', sans-serif;
+      color: white;
+      /* background-position: 5%; */
+      background-size: 100%;
+    }
+
+    /* header */
+    header {
+      margin-top: 30px;
+    }
+
+    #name-navbar {
+      text-align: center;
+      font-size: 30px;
+    }
+
+    div#logo-name {
+      background-color: blueviolet;
+      margin-left: auto;
+      margin-right: auto;
+      width: 160px;
+      height: 45px;
+    }
+
+    ul {
+      list-style-type: none;
+      margin: 30px;
+      padding: 1px;
+      overflow: hidden;
+    }
+
+    li {
+      float: left;
+    }
+
+    li > a {
+      text-decoration: none;
+      padding: 10px;
+      font-size: 22px;
+      background-color: blueviolet;
+      color: white;
+    }
+
+    ul a:hover {
+      background-color: black;
+    }
+
+    /* Seções */
+    section.container {
+      margin: 20px;
+      display: inline-flex;
+      background-color: #cccccc50;
+      padding: 20px;
+      border: 1px solid white;
+      border-radius: 10px;
+    }
+
+    section#container-inline {
+      padding-top: 80px;
+    }
+
+    .about {
+      margin-top: 56px;
+    }
+
+    p.text {
+      margin: 20px;
+      font-size: 20px;
+      width: 90%
+    }
+
+    div#title-hobbies {
+      background-color: blueviolet;
+      margin-top: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 120px;
+      height: 15px;
+    }
+
+    div#title-books {
+      background-color: blueviolet;
+      margin-top: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 130px;
+      height: 35px;
+    }
+
+    div#title-films {
+      background-color: blueviolet;
+      margin-top: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 135px;
+      height: 40px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    em {
+      background-color: blueviolet;
+      padding: 5px;
+
+    }
+
+    ol>li {
+      margin: 20px;
+    }
+
+    /* Imagens */
+    figure {
+      border: 2px #cccccc solid;
+      padding: 4px;
+      margin-right: 20px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    figcaption {
+      background-color: blueviolet;
+      color: white;
+      font-style: italic;
+      padding: 2px;
+      text-align: center;
+    }
+
+    .image {
+      width: 50%;
+    }
+
+    .container-image {
+      margin: 75px 20px 20px 20px;
+      height: 100%;
+      display: inline-flex;
+
+    }
+    img.icone {
+      width: 3%;
+      margin: 10px;
+    }
+
+    footer.text__footer {
+      background-color: none;
+    }
+
+    footer > a {
+      text-decoration: none;
+    }
+
+    footer {
+      text-align: center;
+      background-color: #cccccc50;
+      padding: 20px;
+      border: 1px solid white;
+      border-radius: 10px;
+      margin: 20px;
+    }
