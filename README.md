@@ -1,3 +1,3 @@
-#Sobre mim
+# Sobre mim 👩🏽‍💻​👩🏽‍🚀​
 
-Este repositorio armazena a primeira atividade do curso de sistemas para internete da faculdade FIAP, que contem o uma presentação pessoal minha.
+Este repositorio armazena a primeira atividade do curso de Sistemas para Internete da faculdade FIAP, que contem o uma presentação pessoal.
